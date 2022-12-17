@@ -1,5 +1,7 @@
 # PyCharm files
 *.idea
+# pycache
+__pycache__
 # xlsx files
 *.xlsx
 

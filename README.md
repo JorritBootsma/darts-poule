@@ -1,1 +1,2 @@
-# darts-poule
+# Description
+A simple script to 
